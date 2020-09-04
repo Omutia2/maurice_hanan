@@ -1,5 +1,6 @@
 body {
-    background-color: whitesmoke
+    background-color: lightblue;
+    opacity: 5;
 }
 #image {
     max-width: 100%;
